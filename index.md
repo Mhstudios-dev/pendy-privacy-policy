@@ -1,6 +1,6 @@
 # Privacy Policy for PendulumTimer
 
-**Effective Date:** January 2025
+**Effective Date:** November 2025
 **Developer:** M.H. Studios
 
 ## Introduction
