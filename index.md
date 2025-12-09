@@ -118,4 +118,4 @@ By using PendulumTimer, you consent to this Privacy Policy and agree to its term
 
 ---
 
-*This privacy policy was last updated on January 2025.*
+*This privacy policy was last updated on November 2025.*
